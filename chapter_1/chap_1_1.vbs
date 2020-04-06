@@ -1,0 +1,2 @@
+' “®ìŠm”F—p
+MsgBox "Hello"
